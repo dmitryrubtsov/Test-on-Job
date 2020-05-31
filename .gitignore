@@ -6,7 +6,7 @@
 catboost_info/
 
 datasets/
-
+*.zip
 
 
 # Byte-compiled / optimized / DLL files
